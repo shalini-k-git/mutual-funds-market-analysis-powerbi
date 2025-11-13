@@ -2,7 +2,8 @@
 
 > **Tools:** Power BI | Excel | DAX | Power Query | Data Modeling  
 > **Domain:** Finance | Investment Analytics
-> ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
 ![Domain-Finance](https://img.shields.io/badge/Domain-Finance-blue)
 ![Language-DAX](https://img.shields.io/badge/Language-DAX-orange)
