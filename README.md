@@ -148,7 +148,7 @@ Developed **interactive Power BI dashboards** addressing all problem statements 
 - AUM Trends – Area charts for growth over time.  
 - Investor Engagement – Donut charts for folio contributions.
 
-  ![Dashboard Preview](dashboards/dashboard_screenshots/Market_Analysis_1.png)
+ ![Dashboard Preview](dashboards/dashboard_screenshots/Market_Analysis_1.png)
 
 ---
 
