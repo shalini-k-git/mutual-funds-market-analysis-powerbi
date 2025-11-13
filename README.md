@@ -1,5 +1,5 @@
 # 📊 Mutual Funds Market Analysis and Performance Insights (2019–2025)
-![Dashboard Preview](dashboards/dashboard_screenshots/Market_Analysis_1.png)
+![Dashboard Preview](dashboards/dashboard_screenshots/Market Analysis-1.png)
 
 > **Tools:** Power BI | Excel | DAX | Power Query | Data Modeling  
 > **Domain:** Finance | Investment Analytics
