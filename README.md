@@ -1,3 +1,8 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Domain-Finance](https://img.shields.io/badge/Domain-Finance-blue)
+![Language-DAX](https://img.shields.io/badge/Language-DAX-orange)
+
 # 📊 Mutual Funds Market Analysis and Performance Insights (2019–2025)
 
 > **Tools:** Power BI | Excel | DAX | Power Query | Data Modeling  
