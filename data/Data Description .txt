@@ -1,0 +1,4 @@
+Data Description 
+
+The dataset used in this project contains real-time mutual fund schemes data sourced from the India Data Portal, originally published by the Association of Mutual Funds in India (AMFI). It includes monthly records from 2019 to 2025, covering key financial indicators such as fund mobilization, redemptions, repurchases, net inflows/outflows, assets under management (AUM), segregated portfolios, and investor folio counts.
+The data provides a comprehensive view of trends in the Indian Mutual Funds Market, enabling analysis of scheme performance, investor behavior, and market growth patterns over time.
