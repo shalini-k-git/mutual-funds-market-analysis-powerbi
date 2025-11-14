@@ -182,6 +182,19 @@ This project transformed complex financial data into **clear, actionable insight
 
 ---
 
+## 👩‍💻 Author
+
+**Shalini K**  
+*Data Analyst | Power BI Developer*  
+
+- 🌐 GitHub: [Shalini_K](https://github.com/shalini-k-git)  
+- 💼 LinkedIn: [Shalini K](https://www.linkedin.com/in/shalini-k10/)  
+- 📧 Email: shalinikandaswamy10@gmail.com
+
+If you found this project useful or have feedback, feel free to reach out!  
+
+---
+
 ## 📚 Tags
 `#PowerBI` `#DataAnalysis` `#MutualFunds` `#FinanceAnalytics`  
 `#DAX` `#DataVisualization` `#ExcelPowerQuery`
