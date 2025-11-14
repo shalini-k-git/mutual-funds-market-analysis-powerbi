@@ -74,19 +74,6 @@ Compare and visualize contributions of different scheme categories and their per
 
 ---
 
-## 🛠️ Tools and Technologies
-
-### 🧮 Microsoft Excel
-- Used **Power Query** for ETL operations (data collection, cleaning, transformation).  
-- Removed duplicates, consolidated data, and standardized formats before Power BI import.  
-- Automated formatting tasks using **Excel Macros**.
-
-### 📈 Microsoft Power BI
-- Primary tool for data modeling, visualization, and dashboard creation.  
-- Used **DAX (Data Analysis Expressions)** to build custom measures and KPIs.  
-- Performed advanced data cleaning and integration in **Power Query Editor**.
-
----
 
 ## 🧹 Data Preprocessing Steps
 
